@@ -1,0 +1,14 @@
+:root{
+    --fs-md:56px;
+    --fs-sm:18px;
+    --color-red: #FF0000;
+}
+.fs-56{
+    font-size:var(--fs-md) !important;
+}
+.fs-18{
+    font-size:var(--fs-sm) !important;
+}
+.text-red{
+    color:var(--color-red);
+}
